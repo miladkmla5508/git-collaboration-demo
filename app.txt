@@ -1,3 +1,8 @@
 Collaboration Demo Project
+<<<<<<< HEAD
 Version 1.1
 Version 2.0
+=======
+Version 1.0
+New Feature: This feature will allow users to manage collaboration workflows more efficiently.
+>>>>>>> abfffae22bf0cd5f3b5d81eca820e64c659d97bb
