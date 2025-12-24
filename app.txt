@@ -1,2 +1,3 @@
 Collaboration Demo Project
 Version 1.0
+New Feature: This feature will allow users to manage collaboration workflows more efficiently.
